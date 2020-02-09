@@ -15,6 +15,7 @@ docker setup file, aws Lightsail + nginx+ SSL + Laravel5
 ***
 ### blog
 
+https://knaka0209.hatenablog.com/entry/lara58_16_LightSail
 
 ***
 
